@@ -1,0 +1,4 @@
+<?php
+//000000007200
+ exit();?>
+a:4:{i:0;a:6:{s:2:"id";i:7;s:4:"type";i:1;s:5:"title";s:5:"test6";s:3:"img";s:45:"20180206/66792278061b54626a0305ed10cd8092.jpg";s:3:"gid";i:6;s:4:"sort";i:6;}i:1;a:6:{s:2:"id";i:6;s:4:"type";i:1;s:5:"title";s:5:"test5";s:3:"img";s:45:"20180206/41364f87ff8e4d90336b3f325f4edc91.jpg";s:3:"gid";i:5;s:4:"sort";i:5;}i:2;a:6:{s:2:"id";i:5;s:4:"type";i:1;s:5:"title";s:5:"test4";s:3:"img";s:45:"20180206/7ca80ccb0240ad13ebdaad74aeaed234.jpg";s:3:"gid";i:4;s:4:"sort";i:4;}i:3;a:6:{s:2:"id";i:4;s:4:"type";i:1;s:5:"title";s:6:"电脑";s:3:"img";s:45:"20180206/18234254764e7d0cf2d85c9592a44b4d.jpg";s:3:"gid";i:2;s:4:"sort";i:3;}}
